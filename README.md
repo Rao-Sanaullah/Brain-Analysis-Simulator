@@ -1,6 +1,3 @@
-# Brain-Analysis-Simulator
-
-
 
 ![Brain Analysis Simulator](https://github.com/Rao-Sanaullah/Brain-Analysis-Simulator/blob/main/image.png)
 
