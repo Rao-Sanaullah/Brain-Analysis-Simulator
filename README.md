@@ -37,4 +37,4 @@ References:
 
 For any help, please contact
 
-Sanaullah (sanaullah@fh-bielefeld.de)
+Sanaullah and Amanullah
