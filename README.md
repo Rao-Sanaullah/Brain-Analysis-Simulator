@@ -1,5 +1,5 @@
 
-![Brain Analysis Simulator](https://github.com/Rao-Sanaullah/Brain-Analysis-Simulator/blob/main/image.png)
+![Brain Analysis Simulator](https://github.com/Rao-Sanaullah/Brain-Analysis-Simulator/blob/main/image1.png)
 
 We believed that the development of Brain Analysis as an open-source brain tumor simulator with a user-friendly interface will help to advance our understanding of brain tumors and improve patient care. The runtime simulator allows researchers to fully understand each and every factor while executing the model, and to use a set of balanced values to accurately predict early brain tumors. On the other hand, we used a novel approach that involves a fast and accurate prediction of early brain tumor detection and region segmentation using a Random Forest Classifier ML model and a balanced statistical algorithm implementation.
 
