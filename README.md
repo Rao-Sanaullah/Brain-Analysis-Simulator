@@ -35,6 +35,4 @@ References:
 [1]. NI LabVIEW, https://www.ni.com/de-de/shop/labview.html.
 
 
-For any help, please contact
 
-Sanaullah and Amanullah
